@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="ConsoleTime/ConsoleTime.csproj" />
+  <Project Path="TimeLibrary/TimeLibrary.csproj" />
+</Solution>

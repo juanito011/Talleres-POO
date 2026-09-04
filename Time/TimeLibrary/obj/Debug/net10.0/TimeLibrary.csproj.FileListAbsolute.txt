@@ -1,0 +1,13 @@
+C:\Users\pc\source\Talleres POO\Time\TimeLibrary\bin\Debug\net10.0\TimeLibrary.deps.json
+C:\Users\pc\source\Talleres POO\Time\TimeLibrary\bin\Debug\net10.0\TimeLibrary.dll
+C:\Users\pc\source\Talleres POO\Time\TimeLibrary\bin\Debug\net10.0\TimeLibrary.pdb
+C:\Users\pc\source\Talleres POO\Time\TimeLibrary\obj\Debug\net10.0\TimeLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\source\Talleres POO\Time\TimeLibrary\obj\Debug\net10.0\TimeLibrary.AssemblyInfoInputs.cache
+C:\Users\pc\source\Talleres POO\Time\TimeLibrary\obj\Debug\net10.0\TimeLibrary.AssemblyInfo.cs
+C:\Users\pc\source\Talleres POO\Time\TimeLibrary\obj\Debug\net10.0\TimeLibrary.csproj.CoreCompileInputs.cache
+C:\Users\pc\source\Talleres POO\Time\TimeLibrary\obj\Debug\net10.0\TimeLibrary.sourcelink.json
+C:\Users\pc\source\Talleres POO\Time\TimeLibrary\obj\Debug\net10.0\TimeLibrary.dll
+C:\Users\pc\source\Talleres POO\Time\TimeLibrary\obj\Debug\net10.0\refint\TimeLibrary.dll
+C:\Users\pc\source\Talleres POO\Time\TimeLibrary\obj\Debug\net10.0\TimeLibrary.pdb
+C:\Users\pc\source\Talleres POO\Time\TimeLibrary\obj\Debug\net10.0\ref\TimeLibrary.dll
+C:\Users\pc\source\Talleres POO\Time\TimeLibrary\obj\Debug\net10.0\TimeLibr.8EFBED9C.Up2Date
