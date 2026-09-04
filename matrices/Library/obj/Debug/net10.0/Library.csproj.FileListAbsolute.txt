@@ -1,0 +1,12 @@
+C:\Users\pc\source\matrices\Library\bin\Debug\net10.0\Library.deps.json
+C:\Users\pc\source\matrices\Library\bin\Debug\net10.0\Library.dll
+C:\Users\pc\source\matrices\Library\bin\Debug\net10.0\Library.pdb
+C:\Users\pc\source\matrices\Library\obj\Debug\net10.0\Library.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\source\matrices\Library\obj\Debug\net10.0\Library.AssemblyInfoInputs.cache
+C:\Users\pc\source\matrices\Library\obj\Debug\net10.0\Library.AssemblyInfo.cs
+C:\Users\pc\source\matrices\Library\obj\Debug\net10.0\Library.csproj.CoreCompileInputs.cache
+C:\Users\pc\source\matrices\Library\obj\Debug\net10.0\Library.dll
+C:\Users\pc\source\matrices\Library\obj\Debug\net10.0\refint\Library.dll
+C:\Users\pc\source\matrices\Library\obj\Debug\net10.0\Library.pdb
+C:\Users\pc\source\matrices\Library\obj\Debug\net10.0\ref\Library.dll
+C:\Users\pc\source\matrices\Library\obj\Debug\net10.0\Library.csproj.Up2Date
