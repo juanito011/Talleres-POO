@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\pc\\source\\Rombo\\Core\\Core.csproj",
+      "projectUniqueName": "C:\\Users\\pc\\source\\Talleres POO\\Rombo\\Core\\Core.csproj",
       "projectName": "Core",
-      "projectPath": "C:\\Users\\pc\\source\\Rombo\\Core\\Core.csproj",
+      "projectPath": "C:\\Users\\pc\\source\\Talleres POO\\Rombo\\Core\\Core.csproj",
       "packagesPath": "C:\\Users\\pc\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\pc\\source\\Rombo\\Core\\obj\\",
+      "outputPath": "C:\\Users\\pc\\source\\Talleres POO\\Rombo\\Core\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\pc\\AppData\\Roaming\\NuGet\\NuGet.Config",

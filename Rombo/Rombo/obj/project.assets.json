@@ -32,11 +32,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\pc\\source\\Rombo\\Rombo\\Rombo.csproj",
+      "projectUniqueName": "C:\\Users\\pc\\source\\Talleres POO\\Rombo\\Rombo\\Rombo.csproj",
       "projectName": "Rombo",
-      "projectPath": "C:\\Users\\pc\\source\\Rombo\\Rombo\\Rombo.csproj",
+      "projectPath": "C:\\Users\\pc\\source\\Talleres POO\\Rombo\\Rombo\\Rombo.csproj",
       "packagesPath": "C:\\Users\\pc\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\pc\\source\\Rombo\\Rombo\\obj\\",
+      "outputPath": "C:\\Users\\pc\\source\\Talleres POO\\Rombo\\Rombo\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\pc\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -54,8 +54,8 @@
           "framework": "net10.0",
           "targetAlias": "net10.0",
           "projectReferences": {
-            "C:\\Users\\pc\\source\\Rombo\\Core\\Core.csproj": {
-              "projectPath": "C:\\Users\\pc\\source\\Rombo\\Core\\Core.csproj"
+            "C:\\Users\\pc\\source\\Talleres POO\\Rombo\\Core\\Core.csproj": {
+              "projectPath": "C:\\Users\\pc\\source\\Talleres POO\\Rombo\\Core\\Core.csproj"
             }
           }
         }

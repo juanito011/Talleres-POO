@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\pc\\source\\Taller02Herencia\\Frontend\\Frontend.csproj": {}
+    "C:\\Users\\pc\\source\\Talleres POO\\Herencia\\Frontend\\Frontend.csproj": {}
   },
   "projects": {
-    "C:\\Users\\pc\\source\\Taller02Herencia\\Backend\\Backend.csproj": {
+    "C:\\Users\\pc\\source\\Talleres POO\\Herencia\\Backend\\Backend.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\pc\\source\\Taller02Herencia\\Backend\\Backend.csproj",
+        "projectUniqueName": "C:\\Users\\pc\\source\\Talleres POO\\Herencia\\Backend\\Backend.csproj",
         "projectName": "Backend",
-        "projectPath": "C:\\Users\\pc\\source\\Taller02Herencia\\Backend\\Backend.csproj",
+        "projectPath": "C:\\Users\\pc\\source\\Talleres POO\\Herencia\\Backend\\Backend.csproj",
         "packagesPath": "C:\\Users\\pc\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\pc\\source\\Taller02Herencia\\Backend\\obj\\",
+        "outputPath": "C:\\Users\\pc\\source\\Talleres POO\\Herencia\\Backend\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\pc\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -341,14 +341,14 @@
         }
       }
     },
-    "C:\\Users\\pc\\source\\Taller02Herencia\\Frontend\\Frontend.csproj": {
+    "C:\\Users\\pc\\source\\Talleres POO\\Herencia\\Frontend\\Frontend.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\pc\\source\\Taller02Herencia\\Frontend\\Frontend.csproj",
+        "projectUniqueName": "C:\\Users\\pc\\source\\Talleres POO\\Herencia\\Frontend\\Frontend.csproj",
         "projectName": "Frontend",
-        "projectPath": "C:\\Users\\pc\\source\\Taller02Herencia\\Frontend\\Frontend.csproj",
+        "projectPath": "C:\\Users\\pc\\source\\Talleres POO\\Herencia\\Frontend\\Frontend.csproj",
         "packagesPath": "C:\\Users\\pc\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\pc\\source\\Taller02Herencia\\Frontend\\obj\\",
+        "outputPath": "C:\\Users\\pc\\source\\Talleres POO\\Herencia\\Frontend\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\pc\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -366,8 +366,8 @@
             "framework": "net10.0",
             "targetAlias": "net10.0",
             "projectReferences": {
-              "C:\\Users\\pc\\source\\Taller02Herencia\\Backend\\Backend.csproj": {
-                "projectPath": "C:\\Users\\pc\\source\\Taller02Herencia\\Backend\\Backend.csproj"
+              "C:\\Users\\pc\\source\\Talleres POO\\Herencia\\Backend\\Backend.csproj": {
+                "projectPath": "C:\\Users\\pc\\source\\Talleres POO\\Herencia\\Backend\\Backend.csproj"
               }
             }
           }

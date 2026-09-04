@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\pc\\source\\matrices\\Library\\Library.csproj",
+      "projectUniqueName": "C:\\Users\\pc\\source\\Talleres POO\\matrices\\Library\\Library.csproj",
       "projectName": "Library",
-      "projectPath": "C:\\Users\\pc\\source\\matrices\\Library\\Library.csproj",
+      "projectPath": "C:\\Users\\pc\\source\\Talleres POO\\matrices\\Library\\Library.csproj",
       "packagesPath": "C:\\Users\\pc\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\pc\\source\\matrices\\Library\\obj\\",
+      "outputPath": "C:\\Users\\pc\\source\\Talleres POO\\matrices\\Library\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\pc\\AppData\\Roaming\\NuGet\\NuGet.Config",

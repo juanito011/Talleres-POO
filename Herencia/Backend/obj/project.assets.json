@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\pc\\source\\Taller02Herencia\\Backend\\Backend.csproj",
+      "projectUniqueName": "C:\\Users\\pc\\source\\Talleres POO\\Herencia\\Backend\\Backend.csproj",
       "projectName": "Backend",
-      "projectPath": "C:\\Users\\pc\\source\\Taller02Herencia\\Backend\\Backend.csproj",
+      "projectPath": "C:\\Users\\pc\\source\\Talleres POO\\Herencia\\Backend\\Backend.csproj",
       "packagesPath": "C:\\Users\\pc\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\pc\\source\\Taller02Herencia\\Backend\\obj\\",
+      "outputPath": "C:\\Users\\pc\\source\\Talleres POO\\Herencia\\Backend\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\pc\\AppData\\Roaming\\NuGet\\NuGet.Config",
