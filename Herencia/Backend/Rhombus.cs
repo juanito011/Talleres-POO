@@ -19,7 +19,7 @@ public class Rhombus : Square
     public double D2
     {
         get => _d2;
-        set => _d2 = ValidateD1(value);
+        set => _d2 = ValidateD2(value);
     }
 
     public override double GetArea()

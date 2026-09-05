@@ -28,7 +28,7 @@ public class Parallelogram : Rectangle
     {
         if (h <= 0)
         {
-            throw new ArgumentException("The height must be greater than zero.");
+            throw new Exception("The height must be greater than zero.");
         }
         return h;
     }

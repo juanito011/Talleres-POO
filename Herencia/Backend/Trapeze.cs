@@ -29,7 +29,7 @@ public class Trapeze : Triangle
     {
         if (d <= 0)
         {
-            throw new ArgumentException("D must be greater than zero.");
+            throw new Exception("D must be greater than zero.");
         }
         return d;
     }

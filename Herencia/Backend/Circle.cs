@@ -30,7 +30,7 @@ public class Circle : GeometricFigure
     {
         if (r <= 0)
         {
-            throw new ArgumentException("The radius must be greater than zero.");
+            throw new Exception("The radius must be greater than zero.");
         }
         return r;
     }
