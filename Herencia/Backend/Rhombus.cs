@@ -2,22 +2,25 @@
 
 public class Rhombus : Square
 {
-    private readonly double _d1;
-    private readonly double _d2;
+    private double _d1;
+    private double _d2;
 
-    public Rhombus(string name, double a, double d1, double d2)
-        : base(name, a)
+    public Rhombus(string name, double a, double d1, double d2) : base(name, a)
     {
-        ValidateD1(d1);
-        ValidateD2(d2);
-
         _d1 = d1;
         _d2 = d2;
     }
 
-    public double D1 => _d1;
-
-    public double D2 => _d2;
+    public double D1
+    {
+        get => _d1;
+        set => _d1 = ValidateD1(value);
+    }
+    public double D2
+    {
+        get => _d2;
+        set => _d2 = ValidateD1(value);
+    }
 
     public override double GetArea()
     {
@@ -29,15 +32,21 @@ public class Rhombus : Square
         return 4 * A;
     }
 
-    private static void ValidateD1(double d1)
+    private double ValidateD1(double d1)
     {
-        if (d1 <= 0)
-            throw new ArgumentException("D1 must be greater than zero.");
+        if (d1 <= 0) { 
+        throw new Exception("D1 must be greater than zero.");
+        }
+        return d1;
     }
 
-    private static void ValidateD2(double d2)
+
+    private double ValidateD2(double d2)
     {
         if (d2 <= 0)
-            throw new ArgumentException("D2 must be greater than zero.");
+        {
+            throw new Exception("D1 must be greater than zero.");
+        }
+        return d2;
     }
 }

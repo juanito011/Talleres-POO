@@ -1,208 +1,36 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\pc\\source\\Taller02Herencia\\",
+  "WorkspaceRootPath": "C:\\Users\\pc\\source\\repos\\Talleres-POO\\Herencia\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{90CF18BE-437A-4804-9E85-213B3EBFA1C5}|Frontend\\Frontend.csproj|c:\\users\\pc\\source\\taller02herencia\\frontend\\frontend.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{90CF18BE-437A-4804-9E85-213B3EBFA1C5}|Frontend\\Frontend.csproj|solutionrelative:frontend\\frontend.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{90CF18BE-437A-4804-9E85-213B3EBFA1C5}|Frontend\\Frontend.csproj|c:\\users\\pc\\source\\taller02herencia\\frontend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{90CF18BE-437A-4804-9E85-213B3EBFA1C5}|Frontend\\Frontend.csproj|c:\\users\\pc\\source\\repos\\talleres-poo\\herencia\\frontend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{90CF18BE-437A-4804-9E85-213B3EBFA1C5}|Frontend\\Frontend.csproj|solutionrelative:frontend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B5CEE1AB-68C5-FCEC-EA61-653FFB609ED2}|Backend\\Backend.csproj|c:\\users\\pc\\source\\taller02herencia\\backend\\backend.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
-      "RelativeMoniker": "D:0:0:{B5CEE1AB-68C5-FCEC-EA61-653FFB609ED2}|Backend\\Backend.csproj|solutionrelative:backend\\backend.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B5CEE1AB-68C5-FCEC-EA61-653FFB609ED2}|Backend\\Backend.csproj|c:\\users\\pc\\source\\taller02herencia\\backend\\trapeze.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B5CEE1AB-68C5-FCEC-EA61-653FFB609ED2}|Backend\\Backend.csproj|solutionrelative:backend\\trapeze.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B5CEE1AB-68C5-FCEC-EA61-653FFB609ED2}|Backend\\Backend.csproj|c:\\users\\pc\\source\\taller02herencia\\backend\\triangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B5CEE1AB-68C5-FCEC-EA61-653FFB609ED2}|Backend\\Backend.csproj|solutionrelative:backend\\triangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B5CEE1AB-68C5-FCEC-EA61-653FFB609ED2}|Backend\\Backend.csproj|c:\\users\\pc\\source\\taller02herencia\\backend\\parallelogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B5CEE1AB-68C5-FCEC-EA61-653FFB609ED2}|Backend\\Backend.csproj|solutionrelative:backend\\parallelogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B5CEE1AB-68C5-FCEC-EA61-653FFB609ED2}|Backend\\Backend.csproj|c:\\users\\pc\\source\\taller02herencia\\backend\\kite.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B5CEE1AB-68C5-FCEC-EA61-653FFB609ED2}|Backend\\Backend.csproj|solutionrelative:backend\\kite.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B5CEE1AB-68C5-FCEC-EA61-653FFB609ED2}|Backend\\Backend.csproj|c:\\users\\pc\\source\\taller02herencia\\backend\\rhombus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B5CEE1AB-68C5-FCEC-EA61-653FFB609ED2}|Backend\\Backend.csproj|solutionrelative:backend\\rhombus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B5CEE1AB-68C5-FCEC-EA61-653FFB609ED2}|Backend\\Backend.csproj|c:\\users\\pc\\source\\taller02herencia\\backend\\rectangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B5CEE1AB-68C5-FCEC-EA61-653FFB609ED2}|Backend\\Backend.csproj|solutionrelative:backend\\rectangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B5CEE1AB-68C5-FCEC-EA61-653FFB609ED2}|Backend\\Backend.csproj|c:\\users\\pc\\source\\taller02herencia\\backend\\square.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B5CEE1AB-68C5-FCEC-EA61-653FFB609ED2}|Backend\\Backend.csproj|solutionrelative:backend\\square.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B5CEE1AB-68C5-FCEC-EA61-653FFB609ED2}|Backend\\Backend.csproj|c:\\users\\pc\\source\\taller02herencia\\backend\\circle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B5CEE1AB-68C5-FCEC-EA61-653FFB609ED2}|Backend\\Backend.csproj|solutionrelative:backend\\circle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B5CEE1AB-68C5-FCEC-EA61-653FFB609ED2}|Backend\\Backend.csproj|c:\\users\\pc\\source\\taller02herencia\\backend\\geometricfigure.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B5CEE1AB-68C5-FCEC-EA61-653FFB609ED2}|Backend\\Backend.csproj|solutionrelative:backend\\geometricfigure.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
-      "VerticalTabListWidth": 256,
+      "VerticalTabListWidth": 162,
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Frontend.csproj",
-              "DocumentMoniker": "C:\\Users\\pc\\source\\Taller02Herencia\\Frontend\\Frontend.csproj",
-              "RelativeDocumentMoniker": "Frontend\\Frontend.csproj",
-              "ToolTip": "C:\\Users\\pc\\source\\Taller02Herencia\\Frontend\\Frontend.csproj",
-              "RelativeToolTip": "Frontend\\Frontend.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-09-03T19:23:59.805Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Backend",
-              "DocumentMoniker": "C:\\Users\\pc\\source\\Taller02Herencia\\Backend\\Backend.csproj",
-              "RelativeDocumentMoniker": "Backend\\Backend.csproj",
-              "ToolTip": "C:\\Users\\pc\\source\\Taller02Herencia\\Backend\\Backend.csproj",
-              "RelativeToolTip": "Backend\\Backend.csproj",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-09-03T19:22:50.889Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Trapeze.cs",
-              "DocumentMoniker": "C:\\Users\\pc\\source\\Taller02Herencia\\Backend\\Trapeze.cs",
-              "RelativeDocumentMoniker": "Backend\\Trapeze.cs",
-              "ToolTip": "C:\\Users\\pc\\source\\Taller02Herencia\\Backend\\Trapeze.cs",
-              "RelativeToolTip": "Backend\\Trapeze.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-03T19:22:12.431Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Triangle.cs",
-              "DocumentMoniker": "C:\\Users\\pc\\source\\Taller02Herencia\\Backend\\Triangle.cs",
-              "RelativeDocumentMoniker": "Backend\\Triangle.cs",
-              "ToolTip": "C:\\Users\\pc\\source\\Taller02Herencia\\Backend\\Triangle.cs",
-              "RelativeToolTip": "Backend\\Triangle.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAwwC4AAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-03T19:21:15.095Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Parallelogram.cs",
-              "DocumentMoniker": "C:\\Users\\pc\\source\\Taller02Herencia\\Backend\\Parallelogram.cs",
-              "RelativeDocumentMoniker": "Backend\\Parallelogram.cs",
-              "ToolTip": "C:\\Users\\pc\\source\\Taller02Herencia\\Backend\\Parallelogram.cs",
-              "RelativeToolTip": "Backend\\Parallelogram.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAkAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-03T19:20:10.38Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Kite.cs",
-              "DocumentMoniker": "C:\\Users\\pc\\source\\Taller02Herencia\\Backend\\Kite.cs",
-              "RelativeDocumentMoniker": "Backend\\Kite.cs",
-              "ToolTip": "C:\\Users\\pc\\source\\Taller02Herencia\\Backend\\Kite.cs",
-              "RelativeToolTip": "Backend\\Kite.cs",
-              "ViewState": "AgIAABIAAAAAAAAAAAAowCIAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-03T19:19:05.433Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Rhombus.cs",
-              "DocumentMoniker": "C:\\Users\\pc\\source\\Taller02Herencia\\Backend\\Rhombus.cs",
-              "RelativeDocumentMoniker": "Backend\\Rhombus.cs",
-              "ToolTip": "C:\\Users\\pc\\source\\Taller02Herencia\\Backend\\Rhombus.cs",
-              "RelativeToolTip": "Backend\\Rhombus.cs",
-              "ViewState": "AgIAABMAAAAAAAAAAAA0wCoAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-03T19:17:39.112Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Rectangle.cs",
-              "DocumentMoniker": "C:\\Users\\pc\\source\\Taller02Herencia\\Backend\\Rectangle.cs",
-              "RelativeDocumentMoniker": "Backend\\Rectangle.cs",
-              "ToolTip": "C:\\Users\\pc\\source\\Taller02Herencia\\Backend\\Rectangle.cs",
-              "RelativeToolTip": "Backend\\Rectangle.cs",
-              "ViewState": "AgIAABEAAAAAAAAAAAAIwB0AAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-03T19:15:40.356Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Square.cs",
-              "DocumentMoniker": "C:\\Users\\pc\\source\\Taller02Herencia\\Backend\\Square.cs",
-              "RelativeDocumentMoniker": "Backend\\Square.cs",
-              "ToolTip": "C:\\Users\\pc\\source\\Taller02Herencia\\Backend\\Square.cs",
-              "RelativeToolTip": "Backend\\Square.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAYwB0AAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-03T19:15:02.706Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Circle.cs",
-              "DocumentMoniker": "C:\\Users\\pc\\source\\Taller02Herencia\\Backend\\Circle.cs",
-              "RelativeDocumentMoniker": "Backend\\Circle.cs",
-              "ToolTip": "C:\\Users\\pc\\source\\Taller02Herencia\\Backend\\Circle.cs",
-              "RelativeToolTip": "Backend\\Circle.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-03T19:13:03.85Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "GeometricFigure.cs",
-              "DocumentMoniker": "C:\\Users\\pc\\source\\Taller02Herencia\\Backend\\GeometricFigure.cs",
-              "RelativeDocumentMoniker": "Backend\\GeometricFigure.cs",
-              "ToolTip": "C:\\Users\\pc\\source\\Taller02Herencia\\Backend\\GeometricFigure.cs",
-              "RelativeToolTip": "Backend\\GeometricFigure.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAA5wBEAAABcAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-03T19:11:21.52Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\pc\\source\\Taller02Herencia\\Frontend\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\source\\repos\\Talleres-POO\\Herencia\\Frontend\\Program.cs",
               "RelativeDocumentMoniker": "Frontend\\Program.cs",
-              "ToolTip": "C:\\Users\\pc\\source\\Taller02Herencia\\Frontend\\Program.cs",
+              "ToolTip": "C:\\Users\\pc\\source\\repos\\Talleres-POO\\Herencia\\Frontend\\Program.cs",
               "RelativeToolTip": "Frontend\\Program.cs",
-              "ViewState": "AgIAACUAAAAAAAAAAAAswDwAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-03T19:10:14.218Z",
+              "WhenOpened": "2026-09-05T19:27:34.965Z",
               "EditorCaption": ""
             }
           ]

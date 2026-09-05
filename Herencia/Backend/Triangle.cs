@@ -2,26 +2,25 @@
 
 public class Triangle : Rectangle
 {
-    private readonly double _c;
-    private readonly double _h;
+    private  double _c;
+    private  double _h;
 
-    public Triangle(
-        string name,
-        double a,
-        double b,
-        double c,
-        double h) : base(name, a, b)
+    public Triangle(string name, double a, double b, double c, double h) : base(name, a, b)
     {
-        ValidateC(c);
-        ValidateH(h);
-
         _c = c;
         _h = h;
     }
 
-    public double C => _c;
-
-    public double H => _h;
+    public double H
+    {
+        get => _h;
+        set => _h = ValidateH(value);
+    }
+    public double C
+    {
+        get => _c;
+        set => _c = ValidateC(value);
+    }
 
     public override double GetArea()
     {
@@ -33,15 +32,21 @@ public class Triangle : Rectangle
         return A + B + C;
     }
 
-    private static void ValidateC(double c)
+    private double ValidateH(double b)
     {
-        if (c <= 0)
-            throw new ArgumentException("C must be greater than zero.");
+        if (b <= 0)
+        {
+            throw new Exception("B must be greater than zero.");
+        }
+        return b;
     }
 
-    private static void ValidateH(double h)
+    private double ValidateC(double c)
     {
-        if (h <= 0)
-            throw new ArgumentException("The height must be greater than zero.");
+        if (c <= 0)
+        {
+            throw new Exception("C must be greater than zero.");
+        }
+        return c;
     }
 }

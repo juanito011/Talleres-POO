@@ -2,16 +2,18 @@
 
 public class Rectangle : Square
 {
-    private readonly double _b;
+    private double _b;
 
     public Rectangle(string name, double a, double b) : base(name, a)
     {
-        ValidateB(b);
         _b = b;
     }
 
-    public double B => _b;
-
+    public double B
+    {
+        get => _b;
+        set => _b = ValidateB(value);
+    }
     public override double GetArea()
     {
         return A * B;
@@ -22,9 +24,12 @@ public class Rectangle : Square
         return 2 * (A + B);
     }
 
-    private static void ValidateB(double b)
+    private double ValidateB(double b)
     {
         if (b <= 0)
-            throw new ArgumentException("The side B must be greater than zero.");
+        {
+            throw new Exception("Side length must be greater than zero.");
+        }
+        return b;
     }
 }

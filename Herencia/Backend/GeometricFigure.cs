@@ -2,12 +2,8 @@
 
 public abstract class GeometricFigure
 {
-    protected GeometricFigure(string name)
-    {
-        Name = name;
-    }
+    public string Name { get; set; } = null!;
 
-    public string Name { get; }
 
     public abstract double GetArea();
 

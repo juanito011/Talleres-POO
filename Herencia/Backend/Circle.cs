@@ -2,15 +2,19 @@
 
 public class Circle : GeometricFigure
 {
-    private readonly double _r;
+    private  double _r;
 
-    public Circle(string name, double r) : base(name)
+    public Circle(string name, double r)
     {
-        ValidateR(r);
+        Name = name;
         _r = r;
     }
 
-    public double R => _r;
+    public double R
+    {
+        get => _r;
+        set => _r = ValidateR(value);
+    }
 
     public override double GetArea()
     {
@@ -22,9 +26,12 @@ public class Circle : GeometricFigure
         return 2 * Math.PI * R;
     }
 
-    private static void ValidateR(double r)
+    private double ValidateR(double r)
     {
         if (r <= 0)
+        {
             throw new ArgumentException("The radius must be greater than zero.");
+        }
+        return r;
     }
 }

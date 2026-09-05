@@ -2,21 +2,18 @@
 
 public class Trapeze : Triangle
 {
-    private readonly double _d;
+    private double _d;
 
-    public Trapeze(
-        string name,
-        double a,
-        double b,
-        double c,
-        double d,
-        double h) : base(name, a, b, c, h)
-    {
-        ValidateD(d);
+    public Trapeze(string name, double a, double b, double c, double d, double h) : base(name, a, b, c, h)
+    {       
         _d = d;
     }
 
-    public double D => _d;
+    public double D
+    {
+        get => _d;
+        set => _d = ValidateD(value);
+    }
 
     public override double GetArea()
     {
@@ -28,9 +25,12 @@ public class Trapeze : Triangle
         return A + B + C + D;
     }
 
-    private static void ValidateD(double d)
+    private double ValidateD(double d)
     {
         if (d <= 0)
+        {
             throw new ArgumentException("D must be greater than zero.");
+        }
+        return d;
     }
 }
